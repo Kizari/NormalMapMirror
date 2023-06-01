@@ -26,7 +26,7 @@ A file will be created in the same location as the original file for each axis. 
 * normal_map_XMirror.png (this is the original texture with vector information mirrored across the X axis)
 * normal_map_YMirror.png (this is the original texture with vector information mirrored across the Y axis)
 * normal_map_ZMirror.png (this is the original texture with vector information mirrored across the Z axis)  
-* &nbsp;
+&nbsp;
 
 ### Configuration
 
