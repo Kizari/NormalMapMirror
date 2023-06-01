@@ -7,7 +7,7 @@ Mirroring the texture in image editing software will not work correctly, as all 
 
 |Original|Mirrored on X|Mirrored on Y|Mirrored on Z|
 |---|---|---|---|
-|![original](https://github.com/Kizari/NormalMapMirror/assets/25322543/7a08fbd7-ee30-49b7-8f2a-067ffde85eeb)|![xmirror](https://github.com/Kizari/NormalMapMirror/assets/25322543/39062d5b-7b57-4b6f-a902-43923dc7eb17)|![ymirror](https://github.com/Kizari/NormalMapMirror/assets/25322543/abe45e4e-dc6a-43b8-8e28-b13cc42f8e0b)|![zmirror](https://github.com/Kizari/NormalMapMirror/assets/25322543/672dc262-6674-416d-a740-5dbd78281e40)|
+|![original](https://github.com/Kizari/NormalMapMirror/assets/25322543/1f9b8b94-1f62-4978-87b0-88414bbfa1bb)|![xmirror](https://github.com/Kizari/NormalMapMirror/assets/25322543/c03f4c63-ce9c-45b7-a23c-dad09556a061)|![ymirror](https://github.com/Kizari/NormalMapMirror/assets/25322543/fc79c7c6-e6cb-46d7-922d-888afac7948d)|![zmirror](https://github.com/Kizari/NormalMapMirror/assets/25322543/652f13cf-75b8-4598-8176-cc5abaac6bf4)|
 
 &nbsp;
 
