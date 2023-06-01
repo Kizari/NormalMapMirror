@@ -23,9 +23,9 @@ Download the tool on the [releases](https://github.com/Kizari/NormalMapMirror/re
 To mirror the normals on a texture, drag the image file and drop it onto `NormalMapMirror.exe`.
 
 A file will be created in the same location as the original file for each axis. For example, if you drop `normal_map.png` onto the executable, you will get:
-* normal_map_XMirror.png (this is the original texture with vector information mirrored across the X axis)
-* normal_map_YMirror.png (this is the original texture with vector information mirrored across the Y axis)
-* normal_map_ZMirror.png (this is the original texture with vector information mirrored across the Z axis)  
+* `normal_map_XMirror.png` (this is the original texture with vector information mirrored across the X axis)
+* `normal_map_YMirror.png` (this is the original texture with vector information mirrored across the Y axis)
+* `normal_map_ZMirror.png` (this is the original texture with vector information mirrored across the Z axis)  
 &nbsp;
 
 ### Configuration
